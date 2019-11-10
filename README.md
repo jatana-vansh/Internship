@@ -19,4 +19,6 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 
 - For reading articles on machine learning and data science. [Click](https://srmuniv.academia.edu/VanshJatana).
+
+- Stay in touch for updates.
 - Vansh Jatana. [Linkedin](https://www.linkedin.com/in/vansh-jatana)
