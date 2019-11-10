@@ -18,3 +18,5 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 
+-For reading articles on machine learning. [Click](https://srmuniv.academia.edu/VanshJatana)
+-Vansh Jatana. [Linkedin](https://www.linkedin.com/in/vansh-jatana)
